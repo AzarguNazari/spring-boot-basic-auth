@@ -25,7 +25,7 @@
         <aerogear.version>1.0.0</aerogear.version>
         <uap-java.version>1.4.0</uap-java.version>
         <geoip2.version>2.12.0</geoip2.version>
-        <jackson-databind.version>2.9.6</jackson-databind.version>
+        <jackson-databind.version>2.9.10.5</jackson-databind.version>
         <jackson-annotations.version>2.9.6</jackson-annotations.version>
         <jackson-core.version>2.9.6</jackson-core.version>
         <spring-boot-admin.version>2.2.2</spring-boot-admin.version>
